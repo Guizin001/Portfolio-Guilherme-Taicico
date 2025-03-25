@@ -1,5 +1,7 @@
 ## Olá, meu nome é Guilherme Taicico!
 
+[Abrir o Portfolio](https://guitaicicodev.netlify.app/)
+
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Unicsul.
 - 🌱 Aprendendo mais sobre ![image](https://img.shields.io/badge/React-333333?style=flat&logo=react).
 
